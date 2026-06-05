@@ -23,7 +23,7 @@ First, samples with different speeds appear, then, different maximum steering wh
 If you use this repository in academic work, please cite:
 ```bibtex
 @software{diversfc2025,
-  author = {Beatriz Cabrero-Daniel},
+  author = {Beatriz Cabrero-Daniel, Lydia Armini},
   title = {DiverSFC: Measuring Data Diversity via Space-Filling Curves},
   year = {2025},
   url = {https://github.com/beatrizcabdan/DiverSFC}
